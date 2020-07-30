@@ -1,0 +1,11 @@
+title: Welcome to the world of Kalex Wonder...
+author: Kalex Wonder
+email: kalexwonder@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This is a place for me to share all the things I love in blog format for now.  
+# social links
+twitter_username: kalex_wonder # DO NOT include the @ character, or else the build will fail!
+github_username: KalexWonder # DO NOT include the @ character, or else the build will fail!
+instagram_username: kalex_wonder
+
+show_excerpts: true # set to false to remove excerpts on the homepage
