@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: kalexwonder.github.io
+Token: c8ab5d63de8ed13b0670241cf8fffd1caa039186e7fdcb814ebc0c89337eb87e
